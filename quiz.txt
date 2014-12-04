@@ -1,0 +1,6 @@
+1. cd <directory>
+2. Git is your local version control repository
+2b. Github is a cloud based version control repository
+3. git add <file> 
+4. We talked about it in class. 
+5. C 

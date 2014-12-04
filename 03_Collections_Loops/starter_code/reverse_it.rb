@@ -6,6 +6,11 @@ require 'pry-byebug'
 # 2 - Create another method that tests whether that word is a palindrome
 
 def my_reverse(string)
+	char = string.downcase.chars
+	word = ""
+	word << chars.pop
+end
+	# test = string.split("")
   #use some sort of looping here 
 end
 
